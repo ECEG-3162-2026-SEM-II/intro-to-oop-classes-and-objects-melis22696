@@ -8,12 +8,12 @@ public class Main {
         // --- TODO: Step 2 ---
         // Instantiate your first student object here
         // Example: Student s1 = new Student("Abebe Kassa", 12345);
-           Student student1 = new Student("Hamid",101);
+           Student student1 = new Student("Surafel",101);
 
 
         // --- TODO: Step 3 ---
         // Instantiate your second student object here
-         Student student2 = new Student("Abdurahman", 102);
+         Student student2 = new Student("Alalem", 102);
         
         // --- TODO: Step 4 ---
         // Print the details to the console using your getter methods
